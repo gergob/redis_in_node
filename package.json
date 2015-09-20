@@ -1,0 +1,27 @@
+{
+  "name": "redis_in_node",
+  "version": "1.0.0",
+  "description": "Redis integration in Node.js projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gergob/redis_in_node.git"
+  },
+  "keywords": [
+    "redis",
+    "node",
+    "javascript"
+  ],
+  "author": "Gergo Bogdan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gergob/redis_in_node/issues"
+  },
+  "homepage": "https://github.com/gergob/redis_in_node#readme",
+  "dependencies": {
+    "redis": "^1.0.0"
+  }
+}
